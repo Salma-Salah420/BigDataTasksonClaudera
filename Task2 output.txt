@@ -1,0 +1,16 @@
+Action	250
+Adventure	180
+Animation	50
+Biography	40
+Comedy	300
+Crime	200
+Drama	450
+Family	30
+Fantasy	60
+Horror	80
+Mystery	70
+Romance	100
+Sci-Fi	90
+Thriller	120
+War	35
+Western	10
