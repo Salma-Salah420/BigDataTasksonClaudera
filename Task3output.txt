@@ -1,0 +1,8 @@
+Egypt	Population: 104000000 | Total Cases: 327 | Cases per Million: 3.14
+Italy	Population: 60360000 | Total Cases: 59138 | Cases per Million: 979.75
+Spain	Population: 47350000 | Total Cases: 28768 | Cases per Million: 607.45
+China	Population: 1411000000 | Total Cases: 67800 | Cases per Million: 48.05
+USA	Population: 331000000 | Total Cases: 15793 | Cases per Million: 47.72
+France	Population: 67390000 | Total Cases: 16018 | Cases per Million: 237.69
+Germany	Population: 83200000 | Total Cases: 24873 | Cases per Million: 298.96
+UK	Population: 67200000 | Total Cases: 5683 | Cases per Million: 84.57
